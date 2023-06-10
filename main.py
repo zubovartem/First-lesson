@@ -1,0 +1,13 @@
+name = input ("введіть назву країни")
+age =  int(input ("введіть вік країни"))
+Population = int(input ("введіть населення країни"))
+Area = int(input ("введіть площу країни"))
+DataSince = int(input("введіть рік засонування"))
+print(name,age,Population,Area,DataSince)
+name1 = input ("введіть назву країни2")
+age1 =  int(input ("введіть вік країни2"))
+Population1 = int(input ("введіть населення країни2"))
+Area1 = int(input ("введіть площу країни2"))
+DataSince1 = int(input("введіть рік засонування2"))
+print(name1-name,age1-age,Population1-Population,Area1-Area,DataSince1-DataSince)
+
